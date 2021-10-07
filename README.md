@@ -10,13 +10,13 @@
 </a>
 <br>
 <br> 
-Bienvenido a mi pagina de Github! Soy Sandra Yelitza,una mujer apacionada por los avances tecnologicos y convenciada que estos fortaleceran el Sector Deportivo y Social. 
-#### 🌱  Cosas en las que estoy trabajando actualmente:
+Hola ! Bienvenido a mi pagina de Github! Soy Sandra Yelitza,una mujer apacionada por la programacion. 
+#### 🌱  Actualmente estoy dedicada a Fortalecer mis conocimientos en Programacion, mis planeas a corto plazo son:
 - Graduarme del curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira 
 - Terminar la ruta de aprendisaje de JavaScript en Platzi
 - Estoy desarrollando el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) 🚀 
 
-<img align="right" alt="img" src="https://co.pinterest.com/pin/733594226793446497/"width="30%" height="auto"/>
+<img align="right" alt="img" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fco.pinterest.com%2Fpin%2F733594226793446497%2F&psig=AOvVaw3kkPHfzrbRfUUwZTruKBq6&ust=1633669770093000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjL-KrEt_MCFQAAAAAdAAAAABAZ/"width="30%" height="auto"/>
 
 #### ✍️ &nbsp; Cosas con las que me estoy desafiando:
 - Fortalecer mis conocimientos en la aplicacion de metodologia Scrum en el desarrollo  del proyecto de Mujeres Poderosas
