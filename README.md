@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 <!--
+@@ -1,9 +1,6 @@
+! [ Hola 👋, soy Sandra Yelitza, un apasionado desarrollador de frontend 👨‍💻, ​​Colombia 🇪🇸 ] (https://user-images.githubusercontent.com/1561955/87921826-64412300-ca7b-11ea-82b3- 944145ae77fa.png)
+
+<p align = "centro">
+   <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
+    <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt = "midudev" height = "28px" width = "28px "/>
+  </a>
+ 
+
 **YelitzaCC/YelitzaCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
