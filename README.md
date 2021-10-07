@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-@@ -1,9 +1,6 @@
+
 ! [ Hola 👋, soy Sandra Yelitza, un apasionado desarrollador de frontend 👨‍💻, ​​Colombia 🇪🇸 ] (https://user-images.githubusercontent.com/1561955/87921826-64412300-ca7b-11ea-82b3- 944145ae77fa.png)
 
 <p align = "centro">
@@ -22,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
