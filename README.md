@@ -16,7 +16,7 @@ Bienvenido a mi pagina de Github! Soy Sandra Yelitza,una mujer apacionada por lo
 - Terminar la ruta de aprendisaje de JavaScript en Platzi
 - Estoy desarrollando el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) 🚀 
 
-<img align="right" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpatygalindoluz%2Fmu%25C3%25B1equitas%2F&psig=AOvVaw1XLgmeipwpVUJO7_OBjnrX&ust=1633666748793000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiqvqe5t_MCFQAAAAAdAAAAABAO" width="30%" height="auto" />
+<img align="right" alt="img" src="https://www.google.com/url?sa=i&url="https%3A%2F%2Fwww.pinterest.com%2Fpatygalindoluz%2Fmu%25C3%25B1equitas%2F&psig=AOvVaw1XLgmeipwpVUJO7_OBjnrX&ust=1633666748793000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiqvqe5t_MCFQAAAAAdAAAAABAO" width="30%" height="auto" />
 
 #### ✍️ &nbsp; Cosas con las que me estoy desafiando:
 - Fortalecer mis conocimientos en la aplicacion de metodologia Scrum en el desarrollo  del proyecto de Mujeres Poderosas
