@@ -10,8 +10,7 @@
 </a>
 <br>
 <br> 
-Bienvenido a mi pagina de Github! Soy Sandra Yelitza Especialista en Administracion Y Gerencia Deportva apacionada por los avances tecnologicos y convenciada que estas fortaleceran el Sector Deportivo y Social. Me gusta el desarrollo web y el uso de Metodologias Agiles en el desarrollo de mis Proyecto.
-
+Bienvenido a mi pagina de Github! Soy Sandra Yelitza,una mujer apacionada por los avances tecnologicos y convenciada que estos fortaleceran el Sector Deportivo y Social. 
 #### 🌱  Cosas en las que estoy trabajando actualmente:
 - Graduarme del curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira 
 - Terminar la ruta de aprendisaje de JavaScript en Platzi
