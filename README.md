@@ -1,24 +1,60 @@
-### Hi there 👋
+### Hola!! 👋
 
+### <h1 style="color:#5B0CAE">  Hola ! Soy Sandra Yelitza!</h1>
 
-! [ Hola 👋, soy Sandra Yelitza, un apasionado desarrollador de frontend 👨‍💻, ​​Colombia 🇪🇸 ] (https://user-images.githubusercontent.com/1561955/87921826-64412300-ca7b-11ea-82b3- 944145ae77fa.png)
+<a href="https://www.linkedin.com/in/sandra-yelitza-castelblanco-celis-/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" background-color= #000000 />
+</a>
+<a href="https://www.instagram.com/sandra.yelitza/>
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br>
+<br> 
+Bienvenido a mi pagina de Github! Soy Sandra Yelitza Especialista en Administracion Y Gerencia Deportva apacionada por los avances tecnologicos y convenciada que estas fortaleceran el Sector Deportivo y Social. Me gusta el desarrollo web y el uso de Metodologias Agiles en el desarrollo de mis Proyecto.
 
-<p align = "centro">
-   <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
-    <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt = "midudev" height = "28px" width = "28px "/>
-  </a>
- 
+#### 🌱  Cosas en las que estoy trabajando actualmente:
+- Graduarme del curso de MisionTIC 2022 en convenio con la Universidad Tecnologíca de Pereira 
+- Terminar la ruta de aprendisaje de JavaScript en Platzi
+- Estoy desarrollando el proyecto [Mujeres Poderosas TIC](https://github.com/stolzz0613/MujeresPoderosasTIC) 🚀 
 
-**YelitzaCC/YelitzaCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpatygalindoluz%2Fmu%25C3%25B1equitas%2F&psig=AOvVaw1XLgmeipwpVUJO7_OBjnrX&ust=1633666748793000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiqvqe5t_MCFQAAAAAdAAAAABAO" width="30%" height="auto" />
 
-Here are some ideas to get you started:
+#### ✍️ &nbsp; Cosas con las que me estoy desafiando:
+- Fortalecer mis conocimientos en la aplicacion de metodologia Scrum en el desarrollo  del proyecto de Mujeres Poderosas
+- Dedicar 8 horas de estudio autonomo para adquirir nuevos conocimientos de Programacion
+- Aprender una Segunda Lengua - ingles
+- Desarrollar mi marca personal 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### 🖥 &nbsp; Lenguajes para desarrollo e instrumentos:
+<p>
+  
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+  
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=YelitzaCC&show_icons=true&hide_border=true" />
+  
+</p>
+<br>
 
+####  ⚙️ &nbsp; Herramientas que uso:
+<p>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>  
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg"></code>
+  <code><img width="3%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg"></code> 
+</p>
